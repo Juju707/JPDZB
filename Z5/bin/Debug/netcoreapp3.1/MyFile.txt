@@ -1,0 +1,2 @@
+oiqeuoiwueroiq	10	
+alakowhile (console.readline().tolower() != "stop")ala	18	

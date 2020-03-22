@@ -1,0 +1,11 @@
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.exe
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.deps.json
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.runtimeconfig.json
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.runtimeconfig.dev.json
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.dll
+C:\Users\jszy10\source\repos\Z2\bin\Debug\netcoreapp3.1\Z2.pdb
+C:\Users\jszy10\source\repos\Z2\obj\Debug\netcoreapp3.1\Z2.csprojAssemblyReference.cache
+C:\Users\jszy10\source\repos\Z2\obj\Debug\netcoreapp3.1\Z2.AssemblyInfoInputs.cache
+C:\Users\jszy10\source\repos\Z2\obj\Debug\netcoreapp3.1\Z2.AssemblyInfo.cs
+C:\Users\jszy10\source\repos\Z2\obj\Debug\netcoreapp3.1\Z2.dll
+C:\Users\jszy10\source\repos\Z2\obj\Debug\netcoreapp3.1\Z2.pdb
