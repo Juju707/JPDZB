@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z4": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}

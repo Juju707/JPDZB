@@ -1,0 +1,11 @@
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.exe
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.deps.json
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.runtimeconfig.json
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.runtimeconfig.dev.json
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.dll
+C:\Users\jszy10\source\repos\Z4\bin\Debug\netcoreapp3.1\Z4.pdb
+C:\Users\jszy10\source\repos\Z4\obj\Debug\netcoreapp3.1\Z4.csprojAssemblyReference.cache
+C:\Users\jszy10\source\repos\Z4\obj\Debug\netcoreapp3.1\Z4.AssemblyInfoInputs.cache
+C:\Users\jszy10\source\repos\Z4\obj\Debug\netcoreapp3.1\Z4.AssemblyInfo.cs
+C:\Users\jszy10\source\repos\Z4\obj\Debug\netcoreapp3.1\Z4.dll
+C:\Users\jszy10\source\repos\Z4\obj\Debug\netcoreapp3.1\Z4.pdb
