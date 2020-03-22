@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z5": {
+      "commandName": "Project",
+      "commandLineArgs": "MyFile.txt"
+    }
+  }
+}
