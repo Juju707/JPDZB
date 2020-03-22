@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z6": {
+      "commandName": "Project",
+      "commandLineArgs": "File1.txt File2.txt"
+    }
+  }
+}

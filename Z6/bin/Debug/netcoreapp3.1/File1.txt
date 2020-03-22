@@ -1,0 +1,2 @@
+Ala ma kota. To sa losowe wyrazy.	Sprawdzam jak ten program dziala
+	Hello World
